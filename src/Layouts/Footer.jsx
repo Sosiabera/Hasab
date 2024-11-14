@@ -5,6 +5,7 @@ const Footer =()=> {
     <footer className="bg-white-800 text-black py-6">
       <div className="container mx-auto text-center md:text-left flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
         <div className="flex flex-col space-y-2">
+        <img src="/image/hlogo.JPG" alt="" class="relative z-10 w-12 h-12  items-center justify-right rounded-full"/>
           <h2 className="text-2xl font-bold">Hasab</h2>
           <p className="text-sm">smttttt</p>
         </div>
